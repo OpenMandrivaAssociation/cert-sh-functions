@@ -1,7 +1,7 @@
 Summary:	Helper functions for SSL certificate generation
 Name:		cert-sh-functions
 Version:	1.0.2
-Release:	5
+Release:	6
 License:	GPL
 Group:		System/Base
 Url:		http://git.altlinux.org/gears/c/cert-sh-functions.git
