@@ -4,7 +4,7 @@ Version:	1.0.2
 Release:	6
 License:	GPL
 Group:		System/Base
-Url:		http://git.altlinux.org/gears/c/cert-sh-functions.git
+Url:		https://git.altlinux.org/gears/c/cert-sh-functions.git
 Source0:	%{name}-%{version}.tar
 Requires:	openssl
 Requires:	openssl-config
